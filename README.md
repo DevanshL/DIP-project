@@ -30,9 +30,11 @@ cd Image-Segmentation
 Here are some example images segmented using the U-Net model:
 
 - Example 1:
+  
 ![Input_Image](Images/wallpaperflare.com_wallpaper.jpg)
 
 - Example 2:
+  
 ![Segmented_Image](Images/output_image.jpg)
 
 ## Contributing
